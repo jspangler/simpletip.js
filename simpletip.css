@@ -1,0 +1,13 @@
+.z-tip {
+	position: absolute;
+	background: #000;
+	color: #eee;
+	padding: 6px 10px;
+	border-radius: 3px;
+	max-width: 220px;
+	opacity: 0;
+	transition: opacity 250ms ease;
+	-o-transition: opacity 250ms ease;
+	-moz-transition: opacity 250ms ease;
+	-webkit-transition: opacity 250ms ease;
+}
